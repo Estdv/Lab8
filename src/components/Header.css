@@ -1,0 +1,23 @@
+#Header{
+    Color:white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    position: relative;
+}
+
+#titulo{
+    Color:green;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+   /* background-color: rgba(248, 245, 33, 0.4);*/
+    position: relative;
+    left:2%;
+    padding: 0.5%;
+}
+
+#intentos{
+    Color:grey;
+    /*background-color: rgba(74, 160, 182,0.5);*/
+}
