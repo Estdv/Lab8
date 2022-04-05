@@ -1,6 +1,6 @@
 import shuffle from "lodash.shuffle";
 import Iconos from "./iconos";
-const NumCartas = 11;   
+const NumCartas = 15;   
 
 export default () =>{
     const icons = Iconos();
